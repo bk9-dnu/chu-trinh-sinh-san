@@ -48,7 +48,7 @@
 }
 
 body {
-  font-family: "Righteous", cursive;
+  font-family: "Open Sans", sans-serif;
   color: #0c0c0c;
   background-color: #ffffff;
 }
@@ -97,7 +97,8 @@ p {
 }
 
 .heading_container h2 {
-  font-family: "Righteous", cursive;
+  font-family: "Open Sans", bold;
+  font-weight: bold;
 }
 
 /*header section*/

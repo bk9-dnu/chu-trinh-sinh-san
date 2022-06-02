@@ -59,15 +59,10 @@
 
   .layout_padding {
     padding-top: 90px;
-    padding-bottom: 90px;
   }
 
   .layout_padding-top {
     padding-top: 90px;
-  }
-
-  .layout_padding-bottom {
-    padding-bottom: 90px;
   }
 
   .hero_area::before {

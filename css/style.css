@@ -452,7 +452,7 @@ a:focus {
 
 .slider_section .img-box img {
   text-align-last: center !important;
-  width: 50%;
+  width: 100%;
 }
 
 .slider_section #carouselExampleIndicators {
@@ -512,6 +512,12 @@ a:focus {
   width: 250px;
 }
 
+.animal_section .img-box2 img {
+  text-align: center !important;
+  height: 230px;
+  width: 500px;
+}
+
 .forest_section .row {
   -webkit-box-align: center;
       -ms-flex-align: center;
@@ -522,6 +528,12 @@ a:focus {
   text-align: center !important;
   height: 170px;
   width: 250px;
+}
+
+.forest_section .img-box2 img {
+  text-align: center !important;
+  height: 230px;
+  width: 500px;
 }
 
 .forest_section .detail-box p {
@@ -546,7 +558,7 @@ a:focus {
 }
 
 .about_section .img-box img {
-  width: 100%;
+  width: 40%;
 }
 
 .subscribe_section .subscribe_form form button:hover {

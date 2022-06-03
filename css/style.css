@@ -451,7 +451,8 @@ a:focus {
 }
 
 .slider_section .img-box img {
-  width: 100%;
+  text-align-last: center !important;
+  width: 50%;
 }
 
 .slider_section #carouselExampleIndicators {
@@ -506,7 +507,9 @@ a:focus {
 }
 
 .animal_section .img-box img {
-  width: 100%;
+  text-align: center !important;
+  height: 170px;
+  width: 250px;
 }
 
 .forest_section .row {
@@ -516,7 +519,9 @@ a:focus {
 }
 
 .forest_section .img-box img {
-  width: 100%;
+  text-align: center !important;
+  height: 170px;
+  width: 250px;
 }
 
 .forest_section .detail-box p {
